@@ -1,0 +1,23 @@
+.Pokedex {
+  text-align: center;
+  padding: 1rem;
+}
+
+.Pokedex-cards {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.Total-experience {
+  font-size: 1rem;
+  padding: 1rem;
+}
+
+.Pokedex-winner {
+  color: #4caf50;
+}
+
+.Pokedex-loser {
+  color: #e91e63;
+}
